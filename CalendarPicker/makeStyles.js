@@ -164,7 +164,6 @@ export function makeStyles(params) {
 
     nextContainer: {
       marginRight: 10*scaler,
-      alignItems: 'flex-end',
     },
 
     navButtonText: {
